@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+
+#omega {
+    display: block;
+    margin: 0 auto;
+    width: 10%;
+    height: 10%;
+}
+
+#tokyo2020 {
+  width: 40%;
+  height: 40%;
+  margin-top: 100px;
+  margin-left: 30px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+h1 {
+  margin-left: 150px;
+  display: inline-block;
+  font-size: 2em;
+  font-family: 'Barrio', cursive;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 1.6;
+  font-family: sans-serif;
+}
+
+nav {
+    overflow: hidden;
+    background-color: white;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    border: 2px solid red;
+}
+
+/* p {
+  margin-top: 200px;
+  font-size: 3em;
+} */
